@@ -2,7 +2,7 @@ import { NftSwapV4 } from '@traderxyz/nft-swap-sdk';
 import Web3 from 'web3'
 
 /**
- * Singleton for NFT Swap
+ * Create instance of NFT Swap
  * @param url Provider URL
  * @returns nftSwap
  */
